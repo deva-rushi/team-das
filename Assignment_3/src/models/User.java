@@ -9,7 +9,7 @@ package models;
  * @author rakadadevarushikamidi
  */
 public class User {
-    
+    //user
     private String firstName;
     private String lastName;
     private String userName;
